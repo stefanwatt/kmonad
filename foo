@@ -1,0 +1,3 @@
+#!usr/bin/bash
+eventId=7
+$(sed -i "s|event[0-9]+|7|g" /home/stefan/.config/kmonad/logitech-k400.kbd)
